@@ -18,7 +18,7 @@ public class Main {
         //adding the features for star in the solr system
 
         FeatureStars FacX = new FeatureStars();
-        FacX.color=green;
+        FacX.color="green";
         FacX.radius="5454646464654445";
         FacX.size="45454545454";
 
