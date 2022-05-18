@@ -14,7 +14,14 @@ public class Main {
         xFact.color="green";
         xFact.radius="1000000000";
         xFact.heat="5416546451564465";
-        
+
+        //adding the features for star in the solr system
+
+        FeatureStars FacX = new FeatureStars();
+        FacX.color=green;
+        FacX.radius="5454646464654445";
+        FacX.size="45454545454";
+
 
     }
 }
