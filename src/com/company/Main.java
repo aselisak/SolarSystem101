@@ -23,5 +23,11 @@ public class Main {
         FacX.size="45454545454";
 
 
+        //adding features for planet 1
+        Planet1Feature earth = new Planet1Feature();
+        earth.color = "blue";
+        earth.size="4545464646464656";
+        earth.name="preachX";
+
     }
 }
