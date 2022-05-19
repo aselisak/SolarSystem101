@@ -22,6 +22,11 @@ public class Main {
         FacX.radius="5454646464654445";
         FacX.size="45454545454";
 
+        //adding new features to planet 2
+        Planet2 gul = new Planet2();
+        gul.color="pink";
+        gul.size="5156486454154";
+        gul.name="earth";
 
     }
 }
